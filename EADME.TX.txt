@@ -1,0 +1,1 @@
+Como o nosso projeto é uma plataforma web não é preciso instalar nada! 
